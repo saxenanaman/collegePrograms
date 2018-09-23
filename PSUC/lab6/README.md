@@ -6,3 +6,4 @@ P4: Multiplication table for n numbers up to k terms
 P5: Generate prime numbers between a given limit
 P6: Reverse a given number
 P7: Evaluate the sin series (till accuracy, to n terms)
+P8: Sieve of Eratosthenes
